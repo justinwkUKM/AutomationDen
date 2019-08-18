@@ -1,3 +1,6 @@
+__author__ = "waqasmcbookair"
+
+
 from watchdog.observers import Observer
 import time
 from watchdog.events import FileSystemEventHandler
