@@ -1,0 +1,148 @@
+{
+    "activities": [
+        {
+            "name": "Terminal",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-08-25 02:15:23",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 20,
+                    "start_time": "2019-08-25 02:15:02"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-08-25 02:19:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2019-08-25 02:19:23"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-08-25 02:20:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2019-08-25 02:20:15"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-08-25 02:20:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2019-08-25 02:20:38"
+                }
+            ]
+        },
+        {
+            "name": "Visual Studio Community",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-08-25 02:15:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2019-08-25 02:15:23"
+                }
+            ]
+        },
+        {
+            "name": "voicent.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-08-25 02:15:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2019-08-25 02:15:33"
+                }
+            ]
+        },
+        {
+            "name": "www.facebook.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-08-25 02:15:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2019-08-25 02:15:43"
+                }
+            ]
+        },
+        {
+            "name": "developers.google.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-08-25 02:16:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2019-08-25 02:15:53"
+                }
+            ]
+        },
+        {
+            "name": "console.dialogflow.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-08-25 02:16:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2019-08-25 02:16:03"
+                }
+            ]
+        },
+        {
+            "name": "Finder",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-08-25 02:16:23",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2019-08-25 02:16:13"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-08-25 02:19:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 20,
+                    "start_time": "2019-08-25 02:19:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-08-25 02:20:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2019-08-25 02:20:25"
+                }
+            ]
+        },
+        {
+            "name": "Sublime Text",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-08-25 02:20:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2019-08-25 02:20:48"
+                }
+            ]
+        }
+    ]
+}
