@@ -1,4 +1,4 @@
-__author__ = "waqasmcbookair"
+# __author__ = "waqasmcbookair"
 
 
 from watchdog.observers import Observer
